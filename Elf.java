@@ -1,8 +1,6 @@
-
-
 /**
  * The Elf class implements a wrapper for the base Creature class with the following additions
- * Implements a maximum/minimum strength for the creature type [20/5]
+ * Implements a maximum/minimum strength for the creature type [18/5]
  * Implements a maximum/minimum hitpoint total for the creature type [25/5]
  * 
  * @author Bill Crosbie
@@ -10,7 +8,6 @@
  */
 public class Elf extends Creature
 {
-    // instance variables - replace the example below with your own
     private static final int MAX_ELF_HP = 25;
     private static final int MIN_ELF_HP = 8;
     private static final int MAX_ELF_STR = 18;
