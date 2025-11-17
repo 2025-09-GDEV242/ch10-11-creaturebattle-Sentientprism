@@ -1,9 +1,10 @@
 import java.util.ArrayList;
 /**
- * Write a description of class War here.
+ * This creates two arraylists of creatures, then makes them fight against each
+ * other one by one until one arraylist is compeltely deplenished.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Edmund Dougherty
+ * @version 11/17/25
  */
 public class War
 {
